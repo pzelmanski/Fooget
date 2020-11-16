@@ -8,5 +8,4 @@ let Setup () =
 
 [<Test>]
 let Test1 () =
-//    Assert.Pass()
-    Assert.Fail()
+    Assert.Pass()
